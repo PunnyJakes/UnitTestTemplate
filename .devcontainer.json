@@ -18,5 +18,6 @@
     },
     "build": {
         "dockerfile": "Dockerfile"
-    }
+    },
+    "postCreateCommand": "git config --global user.name \"PunnyJakes\" && git config --global user.email \"113552571+PunnyJakes@users.noreply.github.com\""
 }
