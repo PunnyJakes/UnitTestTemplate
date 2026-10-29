@@ -7,12 +7,12 @@
                 "cschlosser.doxdocgen",
                 "ascholer.chemeketa-gitdoc",
                 "ms-vscode.cpptools",
-                "davidkaiser.kaiser-project-zip",
+                "davidkaiser.kaiser-project-zip"
             ]
         },
         "codespaces": {
             "openFiles": [
-                "tests.cpp",
+                "tests.cpp"
             ]
         }
     },
